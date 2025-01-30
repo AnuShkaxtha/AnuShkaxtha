@@ -3,13 +3,9 @@
 
 <p><img align="right" src=https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="anushkaxtha" width="400" /></p>
 <p >
-  - 🔭 I’m currently working on **E-Commerce Website**
+  - 🔭 I’m currently working as React Developer 
 
-  - 🌱 I’m currently learning **React, Java**
-
-  - 🤝 I’m studying **B.Sc.CSIT at TU**
-
-  - 💬 I'm working at **Rigo Technologies as React Intern**
+  - 💬 I'm working at **Rigo Technologie**
 </p>
 
 
